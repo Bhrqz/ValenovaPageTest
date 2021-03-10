@@ -53,7 +53,6 @@
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "canonical-url": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
